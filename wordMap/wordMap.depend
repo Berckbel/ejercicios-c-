@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1623345916 source:c:\users\rdmb\documents\proyectosc++\wordmap\main.cpp
+	<iostream>
+	<bits/stdc++.h>
+	<vector>
+
